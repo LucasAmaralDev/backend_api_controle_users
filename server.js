@@ -1,4 +1,5 @@
 const { UserModel } = require('./model/User-Model');
+const { FacebookModel } = require('./model/Facebook-Model');
 
 
 const express = require('express');
